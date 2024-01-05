@@ -11,9 +11,7 @@ This project is a solution to the [QR Code UI Challenge]([(https://www.frontendm
   - [Links](#links)
 - [Features](#features)
 - [Built With](#built-with)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
+- [Installation](#Installation)
 
 ## Overview
 
